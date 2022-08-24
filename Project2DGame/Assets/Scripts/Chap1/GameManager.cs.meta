@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3ce96922d5221ea4b88ba73b923fc638
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - book: {fileID: 68817389823370453, guid: 8aa515383dbc0da45ad86d346796075c, type: 3}
+  - scoretext: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
